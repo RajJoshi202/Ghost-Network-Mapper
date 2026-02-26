@@ -256,10 +256,10 @@ MIT License — see [LICENSE](LICENSE) file.
 
 ## 👤 Author
 
-**[Your Name]** | Cybersecurity Student
+**[Joshi Raj]** | Cybersecurity Student
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raj-joshi-95072735a/)
+- 🐙 [GitHub](https://github.com/RajJoshi202)
 
 ---
 
