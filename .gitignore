@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Ghost Network Mapper outputs
+outputs/
+*.log
+
+# Scan result files
+scan_*.json
+scan_*.csv
+scan_*.html
+scan_*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# pytest / coverage
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+
+# mypy
+.mypy_cache/

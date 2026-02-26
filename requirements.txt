@@ -1,0 +1,13 @@
+python-nmap>=0.7.1
+networkx>=3.1
+matplotlib>=3.7.0
+plotly>=5.15.0
+pandas>=2.0.0
+rich>=13.4.0
+streamlit>=1.25.0
+netifaces2>=0.0.10
+psutil>=5.9.0
+requests>=2.31.0
+weasyprint>=59.0
+Pillow>=10.0.0
+numpy>=1.24.0
